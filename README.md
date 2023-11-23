@@ -7,6 +7,5 @@
 <!---
 spoobyspeedy25/spoobyspeedy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----><img width="150" alt="Screenshot(29)" src="https://github.com/spoobyspeedy25/spoobyspeedy25/assets/148974763/ab784bf2-b9ec-42b5-84f9-34ee15158c27">
-<img width="150" alt="fawkkkk u" src="https://github.com/spoobyspeedy25/spoobyspeedy25/assets/148974763/5a7313ee-af2f-48a3-ad19-2cda823ce9ee">
+
 
